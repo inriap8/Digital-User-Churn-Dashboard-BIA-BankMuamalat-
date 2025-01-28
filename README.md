@@ -8,3 +8,6 @@ Sebagai BI analyst PT Sejahtera Bersama, apa yang bisa anda usulkan untuk memper
 
 ## Dataset
 - <a href="https://github.com/inriap8/Digital-User-Churn-Dashboard-BIA-BankMuamalat-/blob/main/Customers.xlsx">Dataset Customer</a>
+- <a href="https://github.com/inriap8/Digital-User-Churn-Dashboard-BIA-BankMuamalat-/blob/main/Orders.xlsx">Dataset Orders</a>
+- <a href="https://github.com/inriap8/Digital-User-Churn-Dashboard-BIA-BankMuamalat-/blob/main/ProductCategory.xlsx">Dataset ProductCategory</a>
+- <a href="https://github.com/inriap8/Digital-User-Churn-Dashboard-BIA-BankMuamalat-/blob/main/Products.xlsx">Dataset Product</a>
